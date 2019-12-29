@@ -22,4 +22,4 @@
 <img src="./Image/Title.png"  width="50%"/>
 <img src="./Image/InGame.png"  width="50%"/>
 <img src="./Image/ClearS.png"  width="50%"/>
-<img src="./Image/Title.png"  width="50%"/>
+<img src="./Image/GameOver.png"  width="50%"/>
